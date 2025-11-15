@@ -1,0 +1,8 @@
+{
+  "name": "Stanley's Cafeteria Restaurant Chatbot",
+  "description": "A sophisticated, WhatsApp-style chatbot for a restaurant review and delivery business. It leverages multiple Gemini models to provide a rich user experience, including standard chat, complex query handling, image analysis, and real-time voice conversations.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
